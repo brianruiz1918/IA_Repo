@@ -1,0 +1,5 @@
+Animal
+Humano
+Comida
+Mano
+Silla
